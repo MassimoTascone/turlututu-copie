@@ -131,7 +131,7 @@ button {
 	color: white;
 	text-align: center;
 	float: left;
-	padding: 17px;
+	display: block;
 }
 .navbar li a {
 	display: block;
@@ -140,6 +140,8 @@ button {
 	padding: 10px;
 	text-decoration: none;
 }
+
+
 .login {
 	float: right;
 }
