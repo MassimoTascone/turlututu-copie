@@ -3,7 +3,7 @@ Copie de la page Web à partir de [turlututu.png](https://github.com/becodeorg/B
 
 # Screenshot
 
-![Here's a screenshot of the page](https://imgur.com/GaufPo8 "Page")
+![Here's a screenshot of the page](https://ibb.co/SQCHkS7 "Page")
 
 # Explications
 
