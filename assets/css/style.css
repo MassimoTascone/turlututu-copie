@@ -179,9 +179,7 @@ button {
 	text-align: justify;
 }
 
-.right {
-	background-color:#EE9103;
-}
+
 
 /*============ main =============*/
 
@@ -190,6 +188,15 @@ button {
 .smallbuttons {
 	padding: 20px 45px;
 	background-color: #18577B;
+	font-size: 20px;
+	color: white;
+	border-radius: 12px;
+	margin: 8px;
+	display: inline;
+}
+.right {
+	background-color:#EE9103;
+	padding: 20px 45px;
 	font-size: 20px;
 	color: white;
 	border-radius: 12px;
