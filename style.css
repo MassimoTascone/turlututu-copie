@@ -150,15 +150,6 @@ button {
 /* =========== header  ====== */
 
 
-.smallbuttons {
-	padding: 20px 45px;
-	background-color: #18577B;
-	font-size: 20px;
-	color: white;
-	border-radius: 12px;
-	margin: 8px;
-	display: inline;
-}
 
 /*============ main =============*/
 .wrapleft {
@@ -194,6 +185,19 @@ button {
 
 /*============ main =============*/
 
+/*============ sections =============*/
+
+.smallbuttons {
+	padding: 20px 45px;
+	background-color: #18577B;
+	font-size: 20px;
+	color: white;
+	border-radius: 12px;
+	margin: 8px;
+	display: inline;
+}
+
+/*============ sections =============*/
 
 /*============ Footer ============*/
 
